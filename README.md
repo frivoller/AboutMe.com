@@ -7,10 +7,8 @@ This project is a simple personal webpage designed using HTML and basic CSS. It 
 - **Header with Name**: Displays the user's full name as a main heading.
 - **About Me Section**: A brief introduction about the user.
 - **Education Section**: An ordered list of educational qualifications.
-- **Work Experience**: An ordered list showcasing previous job experiences.
 - **Skills List**: An unordered list displaying technical skills.
 - **Contact Information**: Email and LinkedIn profile with clickable links.
-- **Embedded Google Maps**: Displays the user's location using an iframe.
 
 ## Technologies Used
 - **HTML5**: Structuring the content.
