@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Melis Yıldız</h1>
+    <h2>About Me</h2>
+    <p>Howdy! I am a web developer passionate about creating interactive and user-friendly websites.</p>
+    
+    <h2>Education</h2>
+    <ol>
+        <li>Bachelor's in Sociology - Suleyman Demirel University (2020-2024)</li>
+    </ol>
+    
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React.js, Angular</li>
+        <li>SQL, NoSQL Databases</li>
+    </ul>
+    
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:melisyildiz707@gmail.com">melisyildiz707@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/melis-yildiz-707" target="_blank">linkedin.com/in/melis-yildiz-707</a></p>
+    
+</body>
+</html>
